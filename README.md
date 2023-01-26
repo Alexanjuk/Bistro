@@ -1,2 +1,0 @@
-# Bistro
-Bistro
